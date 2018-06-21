@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\aluad\\Desktop\\Android\\example\\app\\build\\intermediates\\incremental\\mergeNoGPlayDebugResources\\merged.dir\\values-cs\\values-cs.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\aluad\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.6.0.aar\\e787084bbd07c32c5ff187b06ad926bb\\res\\values-cs\\values-cs.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,137,211,283,351,433,512,589,678,754,825",
+                        "endColumns": "81,73,71,67,81,78,76,88,75,70,68",
+                        "endOffsets": "132,206,278,346,428,507,584,673,749,820,889"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1873,1955,2029,2101,2169,2251,2330,2407,2496,2572,2643",
+                        "endColumns": "81,73,71,67,81,78,76,88,75,70,68",
+                        "endOffsets": "1950,2024,2096,2164,2246,2325,2402,2491,2567,2638,2707"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\aluad\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\f8a4d5dcd78086e3a2765562144bd279\\res\\values-cs\\values-cs.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,314,423,509,614,731,812,893,977,1081,1190,1289,1395,1505,1612,1775,1873",
+                        "endColumns": "106,101,108,85,104,116,80,80,83,103,108,98,105,109,106,162,97,81",
+                        "endOffsets": "207,309,418,504,609,726,807,888,972,1076,1185,1284,1390,1500,1607,1770,1868,1950"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,314,423,509,614,731,812,893,977,1081,1190,1289,1395,1505,1612,1775,2712",
+                        "endColumns": "106,101,108,85,104,116,80,80,83,103,108,98,105,109,106,162,97,81",
+                        "endOffsets": "207,309,418,504,609,726,807,888,972,1076,1185,1284,1390,1500,1607,1770,1868,2789"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\aluad\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\560478d68876d4bef3e18dfd78f75cea\\res\\values-cs\\values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "31",
+                        "startColumns": "4",
+                        "startOffsets": "2794",
+                        "endColumns": "100",
+                        "endOffsets": "2890"
+                    }
+                }
+            ]
+        }
+    ]
+}
